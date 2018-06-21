@@ -1,0 +1,1 @@
+# Messing with react, redux, pouchdb and couchdb
